@@ -41,7 +41,7 @@
 			<h2 class="text-5xl font-bold uppercase">Adeala Adebusuyi</h2>
 			<p class="text-xl font-semibold">Fullstack developer</p>
 			<p class="text-gray-400">I build frontend and backend applications.</p>
-			<div class="flex gap-2 align-middle ">
+			<div class="flex gap-2 align-middle">
 				<img
 					src="adebusuyi.jpg"
 					alt="adebusuyi"
@@ -71,12 +71,12 @@
 	</section>
 
 	<section
-		class="static max-w-screen-md col-span-6 p-8 mb-4 overflow-x-clip scroll-smooth lg:absolute w-fit lg:right-0"
+		class="static col-span-6 p-4 mb-4 lg:max-w-screen-md lg:p-8 overflow-x-clip scroll-smooth lg:absolute lg:w-fit lg:right-0"
 		id="projects"
 	>
 		<div>
 			<h2
-				class="sticky top-0 z-40 w-screen p-10 text-lg font-medium tracking-widest uppercase backdrop-blur-md"
+				class="sticky top-0 z-40 w-screen p-5 text-lg font-medium tracking-widest uppercase lg:p-10 backdrop-blur-md"
 			>
 				projects
 			</h2>
