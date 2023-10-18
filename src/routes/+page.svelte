@@ -6,7 +6,7 @@
 
 	const projects: project[] = [
 		{
-			name: 'Ahdeyyy/chat_room',
+			name: 'chat_room',
 			language: 'golang',
 			description: 'A chat room application built with golang with postgresql as the database',
 			tags: ['golang', 'postgresql', 'git', 'htmx', 'tailwindcss'],
@@ -14,7 +14,7 @@
 			link: 'https://chat-room-qso9.onrender.com'
 		},
 		{
-			name: 'Ahdeyyy/go-cgpacalc',
+			name: 'go-cgpacalc',
 			language: 'golang',
 			description:
 				"A command line application that calculates your CGPA based on unilags' grade system",
@@ -22,13 +22,31 @@
 			github: 'https://github.com/Ahdeyyy/go-cgpacalc'
 		},
 		{
-			name: 'Ahdeyyy/MonkeyLangEditor',
+			name: 'MonkeyLangEditor',
 			language: 'typescript',
 			description:
 				'A web based editor for the monkey programming language from the book "Writing an interpreter in go" by Thorsten Ball with the backend written in golang',
 			tags: ['typescript', 'golang', 'git', 'svelte', 'tailwindcss'],
 			github: 'https://github.com/Ahdeyyy/MonkeyLangEditor',
 			link: 'https://monkey-lang-editor.vercel.app'
+		},
+		{
+			name: 'Ledger',
+			language: 'typescript',
+			description:
+				'A web based ledger application that allows you to keep track of your expenses and income',
+			tags: ['typescript', 'git', 'svelte', 'tailwindcss'],
+			github: 'https://github.com/Ahdeyyy/Ledger',
+			link: 'https://ledger-eight.vercel.app'
+		},
+		{
+			name: 'Lyceum',
+			language: 'typescript',
+			description:
+				'A web based application that quizzes you on your knowledge of various unilag courses',
+			tags: ['typescript', 'git', 'svelte', 'tailwindcss'],
+			github: 'https://github.com/Ahdeyyy/lyceum',
+			link: 'https://lyceum-plum.vercel.app'
 		}
 	];
 </script>

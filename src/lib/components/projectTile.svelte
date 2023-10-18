@@ -18,7 +18,11 @@
 
 			<p class="px-2 text-gray-400 break-words md:text-lg lg:px-8">{project.description}</p>
 			<div class="grid grid-flow-row lg:grid-flow-col">
-				<a class="flex gap-1 px-3 mb-2 lg:px-8" target="_blank" href={project.github}>
+				<a
+					class="flex gap-1 px-3 mb-2 lg:px-8 hover:underline underline-offset-2"
+					target="_blank"
+					href={project.github}
+				>
 					<Github class="w-4 aspect-square fill-white" />
 					<span>
 						{project.name}
