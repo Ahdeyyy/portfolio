@@ -58,7 +58,10 @@
 		<div class="relative grid grid-flow-row gap-4 p-4">
 			<h2 class="text-5xl font-bold uppercase">Adeala Adebusuyi</h2>
 			<p class="text-xl font-semibold">Fullstack developer</p>
-			<p class="text-gray-400">I build frontend and backend applications.</p>
+			<p class="text-gray-400">
+				I build frontend and backend applications. <br /> I am currently studying computer science in
+				the university of lagos.
+			</p>
 			<div class="flex gap-2 align-middle">
 				<img
 					src="adebusuyi.jpg"
